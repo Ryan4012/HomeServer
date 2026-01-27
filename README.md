@@ -1,4 +1,4 @@
-# HomeServer
+# Home Server
 
 A personal home server built to explore self-hosting, infrastructure, networking, and automation.
 
