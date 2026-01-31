@@ -58,9 +58,10 @@ Due to lack of direct Ethernet access in my room, I configured my Raspberry Pi t
 Currently, the server relies on a single 240GB SSD for the OS and VMs. In the future, I plan to add a 1TB HDD for expanded storage and eventually build a NAS and media server.
 
 **Diagrams**
+-
+![ alt text](./Diagrams/Architecture-Diagram.png) 
 
-  - Insert architecture diagram here
-  - Insert network diagram here
+![ alt text](./Diagrams/Network-Diagram.png) 
 
 
 
