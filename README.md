@@ -38,8 +38,6 @@ The main reasons I started this project were to develop practical skills in syst
   - 240GB SATA SSD (OS and VM storage)
   - Backup strategy planned (see below)
 
-- **Monitoring & Management** –
-
 ## Architecture Overview
 **Hardware Overview**
 
